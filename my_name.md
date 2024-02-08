@@ -1,4 +1,3 @@
 My name
 
-Kai Nguyen
-Im cool
+Is Fetuha
